@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hugof\source\repos\CoursCpp\Game_of_Life\Source.cpp(170,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\hugof\source\repos\CoursCpp\Game_of_Life\Source.cpp(163,18): warning C4101: 'y' : variable locale non référencée
+  Game_of_Life.vcxproj -> C:\Users\hugof\source\repos\CoursCpp\x64\Debug\Game_of_Life.exe
